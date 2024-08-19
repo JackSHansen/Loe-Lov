@@ -1,0 +1,33 @@
+.location_section {
+    display: flex;
+    max-width: 1192px;
+    margin: 64px auto 0;
+    margin-bottom: 50px;
+  }
+  
+  .location_image {
+    width: 50%;
+  }
+  
+  .location_content {
+    background-color: #fafafa;
+    border: 8px solid #2c3b6f;
+    padding: 77px 71px;
+    width: 50%;
+  }
+  
+  .location_title {
+    color: #002bc2;
+    font-family: Jura, sans-serif;
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  
+  .location_description {
+    font-size: 16px;
+  }
+  .location_destination {
+    color: #2C3B6F;
+  }
+  

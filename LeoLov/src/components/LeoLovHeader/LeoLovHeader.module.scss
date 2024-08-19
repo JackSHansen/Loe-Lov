@@ -1,0 +1,45 @@
+.header {
+    background-color: #fafafa;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    padding: 2px 0;
+  }
+  
+  .header_content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1212px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .navigation {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .nav_link {
+    color: #002bc2;
+    font-size: 12px;
+    text-decoration: none;
+  }
+  
+  .logo {
+    font-family: Jura, sans-serif;
+    font-size: 32px;
+  }
+  
+  .logo_leo {
+    color: #002bc2;
+  }
+  
+  .logo_lov {
+    color: #000;
+  }
+  
+  .header_bar {
+    background-color: #002bc2;
+    height: 7px;
+    margin-top: 14px;
+  }
+  

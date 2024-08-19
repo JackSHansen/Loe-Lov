@@ -1,0 +1,30 @@
+.eternal_guarantee_section {
+    display: flex;
+    max-width: 1192px;
+    margin: 64px auto 0;
+  }
+  
+  .eternal_guarantee_image {
+    width: 50%;
+    object-fit: contain;
+  }
+  
+  .eternal_guarantee_content {
+    background-color: #fafafa;
+    border: 8px solid #2c3b6f;
+    padding: 77px 71px;
+    width: 50%;
+  }
+  
+  .eternal_guarantee_title {
+    color: #002bc2;
+    font-family: Jura, sans-serif;
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  
+  .eternal_guarantee_description {
+    font-size: 16px;
+  }
+  

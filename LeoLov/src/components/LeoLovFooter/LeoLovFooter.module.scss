@@ -1,0 +1,16 @@
+.footer {
+    background-color: #2C3B6F;
+    padding: 20px;
+    color: white;
+  }
+  
+  .footer_content {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    max-width: 1212px;
+    margin: 0 auto;
+  }
+  
+  img {
+    margin-right: 20px;
+  }
